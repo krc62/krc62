@@ -1,16 +1,14 @@
-### Hi there 👋
+This is my Github account used for work associated with the 
+University of West Florida cybersecurity curriculum
+and personal projects.
 
-<!--
-**krc62/krc62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages I use:
+- C++
+- Java
+- Python (rarely)
 
-Here are some ideas to get you started:
+My latest project that I've participated in: Battleship!
+https://github.com/uwf-cen3031-fridge/cen3031-fall23-battleship
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently studying further into data structures, algorithms, and 
+other cybersecurity related fields.
