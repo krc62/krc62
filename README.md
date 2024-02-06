@@ -4,7 +4,6 @@ own curiosity through personal projects.
 
 🚀 What I'm up to:
 - Languages I Love: C++, Java, and the occasional Python dabbling.
-- Projects: Check out my latest endeavor, Battleship! https://github.com/uwf-cen3031-fridge/cen3031-fall23-battleship. It's been a blast!
 - Learning Journey: Currently deep into the realms of data structures, algorithms, and other cybersecurity fields. 📘💻
 
 🌱 Future Endeavors:
